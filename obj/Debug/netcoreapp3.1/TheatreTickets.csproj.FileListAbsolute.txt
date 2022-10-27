@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/TheatreTickets/bin/Debug/netcoreapp3.1/TheatreTickets.deps.json
+/Users/migleczigergo/Projects/TheatreTickets/bin/Debug/netcoreapp3.1/TheatreTickets.runtimeconfig.json
+/Users/migleczigergo/Projects/TheatreTickets/bin/Debug/netcoreapp3.1/TheatreTickets.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/TheatreTickets/bin/Debug/netcoreapp3.1/TheatreTickets.dll
+/Users/migleczigergo/Projects/TheatreTickets/bin/Debug/netcoreapp3.1/TheatreTickets.pdb
+/Users/migleczigergo/Projects/TheatreTickets/obj/Debug/netcoreapp3.1/TheatreTickets.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/TheatreTickets/obj/Debug/netcoreapp3.1/TheatreTickets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/TheatreTickets/obj/Debug/netcoreapp3.1/TheatreTickets.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/TheatreTickets/obj/Debug/netcoreapp3.1/TheatreTickets.AssemblyInfo.cs
+/Users/migleczigergo/Projects/TheatreTickets/obj/Debug/netcoreapp3.1/TheatreTickets.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/TheatreTickets/obj/Debug/netcoreapp3.1/TheatreTickets.dll
+/Users/migleczigergo/Projects/TheatreTickets/obj/Debug/netcoreapp3.1/TheatreTickets.pdb
+/Users/migleczigergo/Projects/TheatreTickets/obj/Debug/netcoreapp3.1/TheatreTickets.genruntimeconfig.cache
